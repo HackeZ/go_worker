@@ -2,8 +2,8 @@ package go_promise
 
 import (
 	"sync"
-	"time"
 	"fmt"
+	"time"
 )
 
 type Promise struct {
